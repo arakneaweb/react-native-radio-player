@@ -1,7 +1,7 @@
 {
-  "author": "Arnaud de Mouhy <arnaud@admds.net> (https://github.com/dehy)",
+  "author": "Arnaud de Mouhy <arnaud@admds.net> (https://github.com/dehy), Karen Hau <karen@araknea-web.fr> (https://github.com/arakneaweb)",
   "bugs": {
-    "url": "https://github.com/dehy/react-native-radio-player/issues"
+    "url": "https://github.com/arakneaweb/react-native-radio-player-akw/issues"
   },
   "commitlint": {
     "extends": [
@@ -111,7 +111,7 @@
   "license": "MIT",
   "main": "./lib/commonjs/index.js",
   "module": "./lib/module/index.js",
-  "name": "react-native-radio-player",
+  "name": "react-native-radio-player-akw",
   "packageManager": "yarn@3.6.1",
   "peerDependencies": {
     "react": "*",
@@ -171,7 +171,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dehy/react-native-radio-player.git"
+    "url": "git+https://github.com/arakneaweb/react-native-radio-player-akw.git"
   },
   "resolutions": {
     "@types/react": "^18.2.44"
@@ -186,7 +186,7 @@
     "typecheck": "tsc"
   },
   "source": "./src/index.tsx",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "workspaces": [
     "example"
   ]
