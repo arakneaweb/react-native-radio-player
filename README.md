@@ -4,10 +4,12 @@
 
 Play radio streams in react-native
 
+Forked from dehy/react-native-radio-player to be implemented as a foreground service on android
+
 ## Installation
 
 ```sh
-yarn install react-native-radio-player
+yarn install react-native-radio-player-akw
 ```
 
 ## Usage
